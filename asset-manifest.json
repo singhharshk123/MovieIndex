@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/singhharshk123/MovieIndex.git/static/css/main.35695470.chunk.css",
+    "main.js": "/singhharshk123/MovieIndex.git/static/js/main.8702bcd2.chunk.js",
+    "main.js.map": "/singhharshk123/MovieIndex.git/static/js/main.8702bcd2.chunk.js.map",
+    "runtime-main.js": "/singhharshk123/MovieIndex.git/static/js/runtime-main.39c30cbb.js",
+    "runtime-main.js.map": "/singhharshk123/MovieIndex.git/static/js/runtime-main.39c30cbb.js.map",
+    "static/js/2.991255d0.chunk.js": "/singhharshk123/MovieIndex.git/static/js/2.991255d0.chunk.js",
+    "static/js/2.991255d0.chunk.js.map": "/singhharshk123/MovieIndex.git/static/js/2.991255d0.chunk.js.map",
+    "static/js/3.1d6c6185.chunk.js": "/singhharshk123/MovieIndex.git/static/js/3.1d6c6185.chunk.js",
+    "static/js/3.1d6c6185.chunk.js.map": "/singhharshk123/MovieIndex.git/static/js/3.1d6c6185.chunk.js.map",
+    "index.html": "/singhharshk123/MovieIndex.git/index.html",
+    "static/css/main.35695470.chunk.css.map": "/singhharshk123/MovieIndex.git/static/css/main.35695470.chunk.css.map",
+    "static/js/2.991255d0.chunk.js.LICENSE.txt": "/singhharshk123/MovieIndex.git/static/js/2.991255d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39c30cbb.js",
+    "static/js/2.991255d0.chunk.js",
+    "static/css/main.35695470.chunk.css",
+    "static/js/main.8702bcd2.chunk.js"
+  ]
+}
